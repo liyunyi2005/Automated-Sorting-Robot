@@ -1,0 +1,25 @@
+# Build outputs
+Debug/
+Release/
+build/
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.bin
+*.hex
+*.log
+
+# IDE metadata (CubeIDE/Eclipse)
+.settings/
+.cproject
+.project
+.mxproject
+*.launch
+*.cfg
+
+# Misc
+*.swp
+*.tmp
+.DS_Store
